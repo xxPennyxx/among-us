@@ -26,4 +26,5 @@ Each crewmate has a unique colour they can pick: black, blue, brown, cyan, green
 - DO NOT fake visual tasks such as MedBay scan, asteroids and trash. The other crewmates can see you're faking them!
 - Do not try the fake AFK trick anywhere!
 
+# Thanks, and have fun! :)
 
