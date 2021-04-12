@@ -12,7 +12,7 @@ The Impostors are the 'bad guys' of the game, who have to mingle with the crew w
 At the start of the game, the game decides whether you are a Crewmate or an Impostor. The players must NOT reveal their role to others. They must keep mum throughout the game, except during meetings or reports. There are upto 3 Impostors in a game of 10. 
 Anyone can call an Emergency Meeting when they feel they know who the Impostor is. There is a limited number of meetings available to each crewmate-- and they cannot be called when any equipment has been sabotaged.
 If a crewmate sees a dead body, he can report it.
-If a meeting is called or a dead body is reported, the crewmates can now discuss among themselves and find out who the Impostor is. The Impostors here can lie to distract the other crewmates. Then the voting process begins. The crewmate who has the maximum votes gets ejected, and the game reveals wheher or not he was an Impostor.
+If a meeting is called or a dead body is reported, the crewmates can now discuss among themselves and find out who the Impostor is. The Impostors here can lie to distract the other crewmates. Then the voting process begins. The crewmate who has the maximum votes gets ejected, and the game reveals whether or not he was an Impostor.
 
 ### Maps
 Among Us has 4 maps: The Skeld, Mira HQ, Polus and the newly-released Airship. Each of the maps has distinct locations with task sites and vents. A crewmate can view CCTV footage or player position via Security and Admin systems respectively.
