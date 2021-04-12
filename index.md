@@ -25,6 +25,7 @@ Each crewmate has a unique colour they can pick: black, blue, brown, cyan, green
 - Time your kill well. Make sure no one is around, and ALWAYS check your kill cooldown. Never kill near a corridor.
 - DO NOT fake visual tasks such as MedBay scan, asteroids and trash. The other crewmates can see you're faking them!
 - Do not try the fake AFK trick anywhere!
+- Make sure you do not kill or vent where the cameras can see you!
 
 # Thanks, and have fun! :)
 
