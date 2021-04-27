@@ -18,7 +18,7 @@ If a meeting is called or a dead body is reported, the crewmates can now discuss
 Among Us has 4 maps: The Skeld, Mira HQ, Polus and the newly-released Airship. Each of the maps has distinct locations with task sites and vents. A crewmate can view CCTV footage or player position via Security and Admin systems respectively.
 
 ### Colours
-Each crewmate has a unique colour they can pick: black, blue, brown, cyan, green, lime, orange, pink, purple, red, yellow and white.
+Each crewmate has a unique colour they can pick: black, blue, brown, cyan, green, lime, orange, pink, purple, red, white and yellow.
 
 ### Tips and Tricks for Impostors
 - A self-report is when you kill a crewmate and immediately report it. This is NOT A GOOD IDEA!!!
