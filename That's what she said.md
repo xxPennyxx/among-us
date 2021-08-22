@@ -40,8 +40,8 @@
 As Joshua Philippe said:
 > Houston, we have a problem.
 
-Jhye Richardson: `<br>` JOSH VENTED IN MEDBAY <br>
-itspennyhere: ` #include<bruh.h>
+Jhye Richardson: JOSH VENTED IN MEDBAY <br>
+itspennyhere: ` #include<bruh.h> <br>
                 int main()
                 {
                   printf("Yeah, Josh killed brown and vented in Medbay.\n");
