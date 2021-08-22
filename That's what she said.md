@@ -40,8 +40,14 @@
 As Joshua Philippe said:
 > Houston, we have a problem.
 
-Jhye Richardson: `<br>` JOSH VENTED IN MEDBAY
-itspennyhere: `<br>` Jhye is a legend detective :))))))
+Jhye Richardson: `<br>` JOSH VENTED IN MEDBAY <br>
+itspennyhere: ` #include<bruh.h>
+                int main()
+                {
+                  printf("Yeah, Josh killed brown and vented in Medbay.\n");
+                  return 0;
+                  }
+` Jhye is a legend detective :))))))
 
 Judges | Discord Username and ID
 ------------ | -------------
