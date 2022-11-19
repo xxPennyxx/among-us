@@ -6,7 +6,14 @@ Among Us is a multiplayer game of survival and betrayal, developed by Innersloth
 The main objective of the crewmates is to finish the tasks assigned to them. If all the crewmates finish their tasks then they win the game. They must also fix sabotaged equipment such as Comms, lights and O2 in order to survive in the game.
 
 ### Impostors
-The Impostors are the 'bad guys' of the game, who have to mingle with the crew while secretly sabotaging ship equipment and killing everyone in the crew. The Impostors can pass through vents to make their job easier.
+The Impostors are the 'bad guys' of the game, who have to mingle with the crew while secretly sabotaging ship equipment and killing everyone in the crew. The Impostors can pass through vents to make their job easier. Since November 2021, it has also been possible for impostors to disguise themselves to other crewmates and confuse players.
+
+### Roles
+The crewmates can be assigned the Scientist or Engineer role, depending on how many of those crewmates can have the role. Those settings can be changed, of course, before the game starts.
+The Scientist can access vitals of other players from anywhere. They must complete tasks to recharge their battery.
+The Engineer can use the vents, however, they have a cooldown and can only stay inside the vent for a limited time, unlike Impostors.
+The Impostor can be a Shapeshifter, that is, they can morph into their impostor teammates or other crewmates. They do have a time limit for being in the form of the other crewmate, though.
+Dead crewmates can be Guardian Angels. They can protect other crewmates from being killed during gameplay.
 
 ### Gameplay
 At the start of the game, the game decides whether you are a Crewmate or an Impostor. The players must NOT reveal their role to others. They must keep mum throughout the game, except during meetings or reports. There are upto 3 Impostors in a game of 10. 
@@ -26,6 +33,6 @@ Each crewmate has a unique colour they can pick: black, blue, brown, cyan, green
 - DO NOT fake visual tasks such as MedBay scan, asteroids and trash. The other crewmates can see you're faking them!
 - Do not try the fake AFK trick anywhere!
 - Make sure you do not kill or vent where the cameras can see you!
+- Keep an eye on the shift and vent cooldown meters.
 
 # Thanks, and have fun! :)
-
