@@ -1,5 +1,4 @@
 # Among Us
-# Among Us
 ## Welcome to the beginner's guide to Among Us!!
 
 Among Us is a multiplayer game of survival and betrayal, developed by Innersloth in 2018. It features up to 10 players in a lobby, who are either crewmates or impostors.
